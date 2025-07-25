@@ -7,22 +7,6 @@ It includes problems from popular platforms like **LeetCode, GeeksforGeeks, and 
 
 ---
 
-## 📂 Structure
-
-* Each topic will have its own folder:
-
-  * `Arrays/`
-  * `Strings/`
-  * `LinkedList/`
-  * `StackQueue/`
-  * `Recursion/`
-  * `Trees/`
-  * `Graphs/`
-  * `DynamicProgramming/`
-* Each file will be named after the problem for easy reference.
-
----
-
 ## 🛠 Languages Used
 
 * **Java** (primary)
